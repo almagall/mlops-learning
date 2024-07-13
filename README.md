@@ -1,4 +1,3 @@
 # MLOps-Learning
 
-This is an example
-This is another example
+This is a new example
